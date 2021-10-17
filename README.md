@@ -10,14 +10,14 @@
 
 Конфиг в котором видно добавленного пользователя user3
 
-![nano config.png](https://github.com/loshkarevev/Homeworks/blob/main/12-kubernetes-02-commands/nano%20config.png)
+![nano config.png](https://github.com/Probablyall/12-kubernetes-02/blob/main/nano%20config.PNG)
 
 И что под этим пользователем выполняются команды
 
-![logs_describe.png](https://github.com/loshkarevev/Homeworks/blob/main/12-kubernetes-02-commands/logs_describe.png)
+![logs_describe.png](https://github.com/Probablyall/12-kubernetes-02/blob/main/logs_describe.PNG)
 
 3)
 
 Все в статусе running
 
-![running.png](https://github.com/loshkarevev/Homeworks/blob/main/12-kubernetes-02-commands/running.png)
+![running.png](https://github.com/Probablyall/12-kubernetes-02/blob/main/running.PNG)
