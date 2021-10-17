@@ -4,7 +4,7 @@
 
 Далее запустил деплойментс из этой статьи https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
-![kubectl get.png](https://github.com/loshkarevev/Homeworks/blob/main/12-kubernetes-02-commands/kubectl%20get.png)
+![kubectl get.png](https://github.com/Probablyall/12-kubernetes-02/blob/main/kubectl%20get.PNG)
 
 2)
 
